@@ -1,0 +1,19 @@
+.btn1{
+    border-color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+.main{
+    height: 100vh;
+}
+
+
+span{
+    color: white;
+    font-size: 20px;
+}
+.row{
+    height: 100vh;
+    --bs-gutter-x:0 !important;
+}
